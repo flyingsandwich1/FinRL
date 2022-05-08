@@ -35,6 +35,10 @@ DOW_30_TICKER = [
     "DIS",
     "DOW"
 ]
+IRON = [
+    "FMG.AX",
+    "BHP.AX"
+]
 
 # Nasdaq 100 constituents at 2019/01
 NAS_100_TICKER = [
