@@ -37,7 +37,8 @@ DOW_30_TICKER = [
 ]
 IRON = [
     "FMG.AX",
-    "BHP.AX"
+    "BHP.AX",
+    "LKE.AX"
 ]
 
 # Nasdaq 100 constituents at 2019/01
