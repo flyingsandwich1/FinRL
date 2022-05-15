@@ -3,50 +3,34 @@ SINGLE_TICKER = ["AAPL"]
 
 # Dow 30 constituents in 2021/10
 # check https://wrds-www.wharton.upenn.edu/ for U.S. index constituents
-DOW_30_TICKER = [
-    "AXP",
-    "AMGN",
-    "AAPL",
-    "BA",
-    "CAT",
-    "CSCO",
-    "CVX",
-    "GS",
-    "HD",
-    "HON",
-    "IBM",
-    "INTC",
-    "JNJ",
-    "KO",
-    "JPM",
-    "MCD",
-    "MMM",
-    "MRK",
-    "MSFT",
-    "NKE",
-    "PG",
-    "TRV",
-    "UNH",
-    "CRM",
-    "VZ",
-    "V",
-    "WBA",
-    "WMT",
-    "DIS",
-    "DOW"
+COAL= [
+    "WHC.AX",
+    "YAL.AX",
+    "EPM.AX",
+    "JAL.AX",
 ]
 IRON = [
     "FMG.AX",
     "BHP.AX",
-    "RIO.AX"
+    "RIO.AX",
+    "CIA.AX"
 ]
 
 LITHIUM = [
-    "LTR.AX",
+    "LKE.AX",
     "AVZ.AX",
-    "VUL.AX",
+    "LTR.AX",
     "PLS.AX"
 ]
+SILVER= [
+    "NCM.AX",
+    "OZL.AX",
+]
+
+
+
+
+
 
 # Nasdaq 100 constituents at 2019/01
 NAS_100_TICKER = [
