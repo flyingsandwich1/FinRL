@@ -20,7 +20,7 @@ LITHIUM = [
     "LKE.AX",
     "AVZ.AX",
     "LTR.AX",
-    "PLS.AX"
+    "CXO.AX"
 ]
 SILVER= [
     "NCM.AX",
