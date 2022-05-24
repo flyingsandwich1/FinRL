@@ -16,8 +16,8 @@ TRAIN_END_DATE = "2021-11-10"
 TEST_START_DATE = "2020-11-11"
 TEST_END_DATE = "2021-06-01"
 
-TRADE_START_DATE = "2021-06-02"
-TRADE_END_DATE = "2022-05-01"
+TRADE_START_DATE = "2021-11-05"
+TRADE_END_DATE = "2022-05-10"
 
 # stockstats technical indicator column names
 # check https://pypi.org/project/stockstats/ for different names
